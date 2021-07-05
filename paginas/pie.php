@@ -5,7 +5,7 @@
                 <div class="col-12 col-md-12 col-lg-12">
                     <div class="row">
                        <div class="col-12 col-md-4 col-lg-4  text-center">
-                            <p>Integrantes: Torrico Roberto, Arenas Johanna, Heber Lucio Martinez, Calvi Pablo .</p>
+                            <p>Integrantes: Torrico Roberto, Linetskyy Vladyslav, Graziano Nicolas Gaston.</p>
                         </div> 
                         <div class="col-12 col-md-4 col-lg-4 text-center">
                             <h2 class="h3">Grupo numero: 6</h2>
