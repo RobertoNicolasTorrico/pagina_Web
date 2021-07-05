@@ -8,7 +8,7 @@
                             <p>Integrantes: Torrico Roberto, Linetskyy Vladyslav, Graziano Nicolas Gaston.</p>
                         </div> 
                         <div class="col-12 col-md-4 col-lg-4 text-center">
-                            <h2 class="h3">Grupo numero: 6</h2>
+                            <h2 class="h3">Grupo numero: 5</h2>
                         </div>
                         
                         <div class="col-12 col-md-4 col-lg-4  text-right">
