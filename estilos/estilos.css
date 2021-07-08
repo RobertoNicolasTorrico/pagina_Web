@@ -1,25 +1,18 @@
 body {
     background-image: url(../img/bg-body.jpg);
-
 }
 p{
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
-
-
-footer a img{
-    margin-left:10px;
-    padding-top:5px;
-    padding-bottom: 0px;
-    width:40px;
-    height:40px;
-}
 footer p{
-    margin-top:5px; 
+    margin-top:2px; 
 }
+.redsoc{
+    color:white;
+  }
 
 .navbar a {
-    color: #F8F8F8;
+    color: #ffffff;
     text-decoration: none;
 }
 .navbar a:hover {
@@ -29,9 +22,8 @@ footer p{
     background-image: url(../img/botonhamburguesa/botonhamburguesa.png);
 }
 .bg-negro{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color: white;
-    
 }
 .seccion{
     margin-top: 100px;
